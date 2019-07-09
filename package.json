@@ -1,0 +1,17 @@
+{
+  "name": "prog_screen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   
+    "start": "electron .",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
